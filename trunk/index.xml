@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs 
+     title="Mobile Phone Wap Browser"
+     title_url="http://www.geocities.com/delabs/"
+     description="Mobile Websites Browser for Wap Pages. Assists WebDesign for making Mobile Friendly Pages. Uses Google Transcoder."
+     height="335" width="392"
+     directory_title="Mobile Phone Wap Browser"
+     author="Anantha Narayan"
+     author_location="Bangalore, India"
+     author_affiliation="SAN Gear"
+     screenshot="http://wap-browser.googlecode.com/svn/trunk/mbrowse.png"
+     thumbnail="http://wap-browser.googlecode.com/svn/trunk/mbrowse-tn.png"
+     scaling="false"
+     scrolling="false"
+     author_photo="http://www.geocities.com/delabs/gadgets/anantha-narayan.png"
+     author_aboutme="Electronic Webmaster"
+     author_link="http://sangear.googlepages.com/"
+     author_quote="From SoulNet to InterNet"
+     author_email="delabs@yahoo.com"/>
+<Content type="html"><![CDATA[
+<iframe src="http://wap-browser.googlecode.com/svn/trunk/mobile-phone.html" marginwidth="0" marginheight="0" allowtransparency="true" frameborder="0" height="335" scrolling="no" width="392"></iframe>
+]]></Content>
+</Module>

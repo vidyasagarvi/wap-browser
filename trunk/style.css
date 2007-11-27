@@ -1,0 +1,134 @@
+body {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	background-color: transparent;
+	color: #708090;
+	font-size: 10px;
+	font-weight: bold;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+}
+
+
+img {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	text-align: center;
+	border: none;
+}
+
+
+b{
+	color: #008601;
+	font-weight: bold;
+}
+
+a,a:link,a:active,a:visited {
+	text-decoration: none;
+	color: #4279A8;
+	font-weight: bold;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #FF1493;
+	font-weight: bold;
+}
+
+
+.credits a,.credits a:link,.credits a:active,.credits a:visited {
+	text-decoration: none;
+	color: #F5F5F5;
+	font-weight: bold;
+}
+
+.credits a:hover {
+	text-decoration: none;
+	color: Yellow;
+	font-weight: bold;
+}
+
+
+textarea, select, input{
+	font-size: 9px;
+	background: #F5F5F5;
+	border: 1px solid #B0C4DE;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+form{
+	font-size: 10px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	font-size: 9px;
+	white-space: nowrap;
+}
+
+#frame-holder{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	background-image: url(handheld.png);
+	position: absolute;
+	left: 0;
+	top: 0;
+	height:335px;
+	width:392px;
+	z-index: 10;
+	background-color: transparent;
+}
+
+.credits{
+	position: absolute;
+	left: 305px;
+	top: 300px;
+	z-index: 400;
+	height: 12px;
+	width: 70px;
+	font-size: 9px;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+
+.browser_box{
+  background-image: url(gears.jpg);
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	position: absolute;
+	left: 26px;
+	top: 28px;	
+	z-index: 200;
+	height: 255px;
+	width: 338px;
+	background-color: transparent;
+	border: 1px solid #CCDEFC;
+}
+
+.prev-btn{
+	position: absolute;
+	left: 150px;
+	top: 295px;
+	z-index: 500;
+	height: 17px;
+	width: 17px;
+}
+
+.next-btn{
+	position: absolute;
+	left: 190px;
+	top: 295px;
+	z-index: 500;
+	height: 17px;
+	width: 17px;
+}
+
+.home-btn{
+	position: absolute;
+	left: 230px;
+	top: 295px;
+	z-index: 500;
+	height: 17px;
+	width: 17px;
+}
+
+
+
