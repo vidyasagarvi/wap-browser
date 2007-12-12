@@ -47,6 +47,18 @@ a:hover {
 	font-weight: bold;
 }
 
+.helpf a,.helpf a:link,.helpf a:active,.helpf a:visited {
+	text-decoration: none;
+	color: #F5F5F5;
+	font-weight: bold;
+}
+
+.helpf a:hover {
+	text-decoration: none;
+	color: Yellow;
+	font-weight: bold;
+}
+
 
 textarea, select, input{
 	font-size: 9px;
@@ -80,6 +92,18 @@ form{
 .credits{
 	position: absolute;
 	left: 305px;
+	top: 300px;
+	z-index: 400;
+	height: 12px;
+	width: 70px;
+	font-size: 9px;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+
+.helpf{
+	position: absolute;
+	left: 50px;
 	top: 300px;
 	z-index: 400;
 	height: 12px;
