@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
-<ModulePrefs 
+<ModulePrefs
      title="Mobile Phone Wap Browser"
-     title_url="http://sangear.googlepages.com/mobile-browser"
+     title_url="http://www.dapj.com/mobile-browser"
      description="Mobile Websites Browser for Wap Pages. Assists WebDesign for making Mobile Friendly Pages. Uses Google Transcoder."
      height="335" width="392"
      directory_title="Mobile Phone Wap Browser"
-     author="Anantha Narayan"
+     author="dapj"
      author_location="Bangalore, India"
-     author_affiliation="SAN Gear"
+     author_affiliation="dapj.com"
      screenshot="http://wap-browser.googlecode.com/svn/trunk/mbrowse.png"
      thumbnail="http://wap-browser.googlecode.com/svn/trunk/mbrowse-tn.png"
      scaling="false"
      scrolling="false"
-     author_photo="http://www.geocities.com/delabs/gadgets/anantha-narayan.png"
-     author_aboutme="Electronic Webmaster"
-     author_link="http://sangear.googlepages.com/"
-     author_quote="From SoulNet to InterNet"
-     author_email="delabs@yahoo.com"/>
+     author_photo="http://wap-browser.googlecode.com/svn/trunk/delogo.png"
+     author_aboutme="Electronic Product Designer"
+     author_link="http://www.dapj.com/"
+     author_quote="Design with a Difference - Solderman"
+     author_email="gadgets@dapj.com"/>
 <Content type="html"><![CDATA[
 <iframe src="http://wap-browser.googlecode.com/svn/trunk/mobile-phone.html" marginwidth="0" marginheight="0" allowtransparency="true" frameborder="0" height="335" scrolling="no" width="392"></iframe>
 ]]></Content>
