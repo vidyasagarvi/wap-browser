@@ -91,14 +91,13 @@ form{
 
 .credits{
 	position: absolute;
-	left: 305px;
+	left: 300px;
 	top: 300px;
 	z-index: 400;
 	height: 12px;
-	width: 70px;
+	width: 80px;
 	font-size: 9px;
 	font-weight: bold;
-	letter-spacing: 1px;
 }
 
 .helpf{
@@ -110,7 +109,6 @@ form{
 	width: 70px;
 	font-size: 9px;
 	font-weight: bold;
-	letter-spacing: 1px;
 }
 
 .browser_box{
